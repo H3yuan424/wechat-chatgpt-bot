@@ -1,0 +1,5 @@
+Flask
+wechatpy
+openai
+cryptography
+gunicorn
